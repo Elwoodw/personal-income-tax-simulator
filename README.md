@@ -3,8 +3,11 @@
 非官方软件，无真实税务功能。
 
 ## 软件截图
-![截图](https://i.postimg.cc/T3DQ6wd3/shot-1.jpg)
-![软件截图](https://i.postimg.cc/HsfjfWvM/shot-2.jpg)
+### 软件截图1
+![软件截图1](https://i.postimg.cc/T3DQ6wd3/shot-1.jpg)
+### 软件截图2
+![软件截图2](https://i.postimg.cc/HsfjfWvM/shot-2.jpg)
+### 软件截图3
 ![软件截图3](https://i.postimg.cc/yN5VSLqT/shot-3.jpg)
 
 ## 下载安装
