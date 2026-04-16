@@ -4,7 +4,7 @@
 非官方软件，无真实税务功能。
 
 ## 下载安装
-[点击下载 APK](sslocal://flow/file_open?url=https%3A%2F%2Fgithub.com%2F%E4%BD%A0%E7%9A%84%E7%94%A8%E6%88%B7%E5%90%8D%2F%E4%BB%93%E5%BA%93%E5%90%8D%2Freleases%2Fdownload%2Fv1.0%2Fapp-release.apk&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
+[点击下载 tax-app](https://github.com/Elwoodw/tax-app/releases/download/V1.0/app-release.apk)
 
 ## 使用方式
 安装后输入卡密激活即可使用。
