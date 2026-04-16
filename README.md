@@ -1,44 +1,16 @@
-# Tax Application
+# 个税界面模拟工具
 
-## Description
-This application provides users with an easy and efficient way to calculate, track, and manage their taxes. Designed for both individuals and small businesses, the tax application aims to simplify the often-complex tax preparation process through a user-friendly interface and robust features.
+仅用于学习演示、界面参考、技术交流。
+非官方软件，无真实税务功能。
 
-## Features
-- **Tax Calculation**: Automatically compute tax liabilities based on user inputted data.
-- **Expense Tracking**: Keep track of deductible expenses throughout the year for accurate reporting.
-- **Form Preparation**: Generate necessary tax forms for various jurisdictions.
-- **User Account Management**: Create and manage user profiles for personalized experiences.
-- **Secure Data Storage**: Ensure the privacy and security of user data with encryption.
+## 下载安装
+[点击下载 APK](sslocal://flow/file_open?url=https%3A%2F%2Fgithub.com%2F%E4%BD%A0%E7%9A%84%E7%94%A8%E6%88%B7%E5%90%8D%2F%E4%BB%93%E5%BA%93%E5%90%8D%2Freleases%2Fdownload%2Fv1.0%2Fapp-release.apk&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
 
-## Technologies Used
-- **Frontend**: React.js for a responsive user interface.
-- **Backend**: Node.js with Express for server-side logic and data handling.
-- **Database**: MongoDB for storing user data and application state.
+## 使用方式
+安装后输入卡密激活即可使用。
+- 激活码一次性使用
+- 激活后立即失效
+- 一机一码，绑定设备
 
-## Installation
-To get started with the tax application, clone the repository and install the dependencies:
-
-```bash
-git clone https://github.com/Elwoodw/tax-app.git
-cd tax-app
-npm install
-```
-
-## Usage
-Run the application using:
-
-```bash
-npm start
-```
-
-Visit `http://localhost:3000` in your web browser to access the application.
-
-## Contributing
-If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-- [OpenAI](https://openai.com) for providing the guidance in creating this application.
-- The developers and contributors who have inspired the features included in this project.
+## 卡密购买
+悠悠发卡平台 搜索对应商品即可购买
