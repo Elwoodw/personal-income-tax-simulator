@@ -1,13 +1,11 @@
 # 仿个税app界面模拟器
-
-##软件截图
-![软件截图1](shot1.jpg)
-![软件截图2](shot2.jpg)
-![软件截图3](shot3.jpg)
-
-
 仅用于学习演示、界面参考、技术交流。
 非官方软件，无真实税务功能。
+
+## 软件截图
+![软件截图1](https://imgchr.com/i/pes0u7Q)
+![软件截图2](shot2.jpg)
+![软件截图3](shot3.jpg)
 
 ## 下载安装
 [点击下载 app](https://github.com/Elwoodw/tax-app/releases/download/V1.0/app-release.apk)
