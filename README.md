@@ -4,8 +4,8 @@
 
 ## 软件截图
 ![截图](https://s41.ax1x.com/2026/04/16/pes0u7Q.jpg)
-![软件截图2](shot2.jpg)
-![软件截图3](shot3.jpg)
+![软件截图](https://i.postimg.cc/HsfjfWvM/shot-2.jpg)
+![软件截图3](https://i.postimg.cc/yN5VSLqT/shot-3.jpg)
 
 ## 下载安装
 [点击下载 app](https://github.com/Elwoodw/tax-app/releases/download/V1.0/app-release.apk)
