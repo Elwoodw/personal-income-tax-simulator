@@ -20,4 +20,4 @@
 - 一机一码，绑定设备
 
 ## 卡密购买
-[卡密购买](https://uufaka.com/item/dw2k4a)
+[卡密购买](https://uufaka.com/item/opjsme)
