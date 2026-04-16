@@ -3,7 +3,7 @@
 非官方软件，无真实税务功能。
 
 ## 软件截图
-![软件截图1](https://imgchr.com/i/pes0u7Q)
+![软件截图1]([https://imgchr.com/i/pes0u7Q](https://s41.ax1x.com/2026/04/16/pes0u7Q.jpg)
 ![软件截图2](shot2.jpg)
 ![软件截图3](shot3.jpg)
 
