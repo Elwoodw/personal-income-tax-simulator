@@ -19,5 +19,8 @@
 - 激活后立即失效
 - 一机一码，绑定设备
 
+## 演示视频
+[点击观看app演示视频](https://www.bilibili.com/video/BV1d7daBxEBe)
+
 ## 卡密购买
 [卡密购买](https://uufaka.com/item/opjsme)
