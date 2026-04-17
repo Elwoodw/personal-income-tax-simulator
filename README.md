@@ -24,3 +24,6 @@
 
 ## 卡密购买
 [卡密购买](https://uufaka.com/item/opjsme)
+
+## 如果卡密购买不了可以联系本人 联系 QQ：2132718856
+[点击联系 QQ](http://wpa.qq.com/msgrd?v=3&uin=2132718856&site=qq&menu=yes)  
