@@ -4,7 +4,7 @@
 
 ## 软件截图
 ### 软件截图1
-![软件截图1](https://i.postimg.cc/PxZ2Jp4d/shot1.jpg)
+![软件截图1](https://i.postimg.cc/WzGfMyLK/shot-1.jpg)
 ### 软件截图2
 ![软件截图2](https://i.postimg.cc/HsfjfWvM/shot-2.jpg)
 ### 软件截图3
@@ -22,8 +22,6 @@
 ## 演示视频
 [点击观看app演示视频](https://www.bilibili.com/video/BV1d7daBxEBe)
 
-## 卡密购买
-[卡密购买](https://uufaka.com/item/opjsme)
 
-## 如果卡密购买不了可以联系本人 联系 QQ：2132718856
+## 卡密购买不了可以联系本人 联系 QQ：2132718856
 [点击联系 QQ](http://wpa.qq.com/msgrd?v=3&uin=2132718856&site=qq&menu=yes)  
