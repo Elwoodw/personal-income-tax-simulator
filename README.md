@@ -20,7 +20,7 @@
 - 一机一码，绑定设备
 
 ## 演示视频
-[点击观看app演示视频](https://www.bilibili.com/video/BV1d7daBxEBe)
+[点击观看app演示视频](https://www.bilibili.com/video/BV1Asd9BwExD)
 
 
 ## 卡密购买不了可以联系本人 联系 QQ：2132718856
