@@ -11,7 +11,7 @@
 <img src="https://github.com/Elwoodw/personal-income-tax-simulator/blob/main/shot3.png" width="500">
 
 ## 下载安装
-[点击下载安卓app](https://gitee.com/jackwjc/personal-income-tax-simulator/releases/download/v1.0/app-release.apk)
+[点击下载安卓app](https://github.com/Elwoodw/personal-income-tax-simulator/releases/download/V1.0/app-release.apk)
 <br>暂时不支持苹果，可以在PC端使用雷电模拟器运行安卓app [点击下载雷电模拟器](https://lddl01.ldmnq.com/downloader/ldplayerinst9.exe?n=ldplayer9_ld_6000_ld.exe)
 ## 使用方式
 安装后点击购买，在平台购买卡密，输入卡密激活即可使用本软件。
