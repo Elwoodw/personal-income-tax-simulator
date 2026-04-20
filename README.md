@@ -6,9 +6,9 @@
 ### 软件截图1
 <img src="https://github.com/Elwoodw/personal-income-tax-simulator/blob/main/shot_1.png" width="500">
 ### 软件截图2
-![软件截图2](https://i.postimg.cc/J0VmHQp8/shot2.png)
+<img src="https://github.com/Elwoodw/personal-income-tax-simulator/blob/main/shot2.png" width="500">
 ### 软件截图3
-![软件截图3](https://i.postimg.cc/zBpYt1jP/shot3.png)
+<img src="https://github.com/Elwoodw/personal-income-tax-simulator/blob/main/shot3.png" width="500">
 
 ## 下载安装
 [点击下载安卓app](https://gitee.com/jackwjc/personal-income-tax-simulator/releases/download/v1.0/app-release.apk)
