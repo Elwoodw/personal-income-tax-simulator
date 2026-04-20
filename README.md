@@ -11,7 +11,8 @@
 ![软件截图3](https://i.postimg.cc/yN5VSLqT/shot-3.jpg)
 
 ## 下载安装
-[点击下载 app](https://github.com/Elwoodw/tax-app/releases/download/V1.0/app-release.apk)
+[点击下载安卓app](https://github.com/Elwoodw/tax-app/releases/download/V1.0/app-release.apk)
+<br>如果用的是苹果，可以在PC端使用雷电模拟器运行安卓app [点击下载雷电模拟器](https://lddl01.ldmnq.com/downloader/ldplayerinst9.exe?n=ldplayer9_ld_6000_ld.exe)
 
 ## 使用方式
 安装后输入卡密激活即可使用。
