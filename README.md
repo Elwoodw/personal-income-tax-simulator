@@ -4,7 +4,7 @@
 
 ## 软件截图
 ### 软件截图1
-![软件截图1](https://i.postimg.cc/VL9sM3y2/shot-1.png)
+[![软件截图1](https://i.postimg.cc/VL9sM3y2/shot-1.png)](https://postimg.cc/w7vdY4jk)
 ### 软件截图2
 ![软件截图2](https://i.postimg.cc/J0VmHQp8/shot2.png)
 ### 软件截图3
