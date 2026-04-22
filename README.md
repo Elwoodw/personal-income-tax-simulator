@@ -5,15 +5,17 @@
 ## 软件截图
 ### 软件截图1
 <img src="https://github.com/Elwoodw/personal-income-tax-simulator/blob/main/shot_1.png" width="500">
+
 ### 软件截图2
 <img src="https://github.com/Elwoodw/personal-income-tax-simulator/blob/main/shot2.png" width="500">
+
 ### 软件截图3
 <img src="https://github.com/Elwoodw/personal-income-tax-simulator/blob/main/shot3.png" width="500">
 
 ## 下载安装
 -  **安卓版：** [点击下载安卓app](https://github.com/Elwoodw/personal-income-tax-simulator/releases/download/V1.0/app-release.apk)
--  **苹果ios版：** [点击下载运行教程PDF](https://gitee.com/jackwjc/personal-income-tax-simulator/raw/master/%E8%8B%B9%E6%9E%9C%E8%BF%90%E8%A1%8C%E6%95%99%E7%A8%8B.pdf)
--  **PC版:** 先下载雷电模拟器，然后在雷电模拟器中安装安卓app [点击下载雷电模拟器](https://lddl01.ldmnq.com/downloader/ldplayerinst9.exe?n=ldplayer9_ld_6000_ld.exe)
+-  **苹果ios版：** [点击下载运行教程PDF](https://github.com/Elwoodw/personal-income-tax-simulator/raw/master/%E8%8B%B9%E6%9E%9C%E8%BF%90%E8%A1%8C%E6%95%99%E7%A8%8B.pdf)
+-  **PC版:** 先下载雷电模拟器，然后在雷电模拟器中安装安卓app运行 [点击下载雷电模拟器](https://lddl01.ldmnq.com/downloader/ldplayerinst9.exe?n=ldplayer9_ld_6000_ld.exe)
 ## 使用方式
 安装后点击购买，在平台购买卡密，输入卡密激活即可使用本软件。
 - 激活码一次性使用
