@@ -4,7 +4,7 @@
 
 ## 软件截图
 ### 软件截图1
-<img src="https://i.postimg.cc/mDqfFg7w/shot.png" width="500">
+<img src="https://github.com/Elwoodw/personal-income-tax-simulator/blob/main/shot.png" width="500">
 
 ### 软件截图2
 <img src="https://github.com/Elwoodw/personal-income-tax-simulator/blob/main/shot2.png" width="500">
