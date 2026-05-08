@@ -30,5 +30,4 @@
 [点击观看app演示视频](https://cropgif.net/videos/1777716939683-da507a58-c82d-4ef3-9874-3400a8ec63e5.mp4)
 
 
-## 如果卡密购买不了可以联系本人 联系 QQ：1807089835
-[点击联系 QQ](http://wpa.qq.com/msgrd?v=3&uin=1807089835&site=qq&menu=yes)  
+
