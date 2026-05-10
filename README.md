@@ -4,7 +4,7 @@
 
 ## 软件截图
 ### 软件截图1
-![软件截图1](https://i.postimg.cc/Pqn1qDBc/Screenshot-20260503-000850.png)
+![软件截图1](https://i.postimg.cc/SxCGsDCn/ping-mu-jie-tu-2026-05-10-145525.png)
 ### 软件截图2
 ![软件截图2](https://i.postimg.cc/nLfqLm6Y/Screenshot-20260503-000822.png)
 ### 软件截图3
