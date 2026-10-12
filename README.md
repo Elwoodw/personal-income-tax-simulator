@@ -27,6 +27,6 @@
 安装后建议先观看视频演示，然后试用模拟器，如需购买卡密点击卡密购买，输入卡密点击登录即可使用本软件。
 
 ## 演示视频
-[点击观看app演示视频](https://cropgif.net/videos/1791830361022-4647ad8e-c7ba-4ee4-9312-542bdc67cb63.mp4)
+[点击观看app演示视频](https://cropgif.net/videos/1791835782894-89d9a86a-6f7d-4189-9eff-6cda4f8c3fcd.mp4)
 
 
